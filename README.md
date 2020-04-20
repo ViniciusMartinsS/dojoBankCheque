@@ -42,5 +42,5 @@ Response received is an object as the below example:
 ### [Dojo Puzzle](http://dojopuzzles.com/problemas/exibe/lendo-um-cheque/) 
 <img src="./img/dojo-example.png">
 
-Realizado por: Vinicius Simone Martins
+Done by: Vinicius Simone Martins
 
